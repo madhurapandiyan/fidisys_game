@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995856202709",
+    "project_id": "fidisys-game-88537",
+    "storage_bucket": "fidisys-game-88537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995856202709:android:942188e1c2feb0e2e81b5c",
+        "android_client_info": {
+          "package_name": "com.example.fidisys_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995856202709-hs87i01me78r3msum7pf7so6nbl7ai7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvjnm1uGcRj449Irxjko6NeuE_WuZkoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995856202709-hs87i01me78r3msum7pf7so6nbl7ai7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
